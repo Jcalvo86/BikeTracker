@@ -1,6 +1,22 @@
-# Welcome to your Expo app 👋
+# BikeTracker 🚴‍♂️
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Una aplicación móvil para registrar y seguir recorridos en bicicleta por la ciudad.
+
+## Características
+
+- 📍 **Seguimiento GPS** en tiempo real
+- 🗺️ **Mapas interactivos** con React Native Maps
+- 📊 **Métricas de ejercicio** (distancia, velocidad, tiempo)
+- 📱 **Historial de rutas** guardadas
+- 📈 **Estadísticas** semanales y mensuales
+
+## Tecnologías
+
+- **React Native** con Expo
+- **React Navigation** para navegación
+- **Expo Location** para GPS
+- **React Native Maps** para mapas
+- **AsyncStorage** para almacenamiento local
 
 ## Get started
 
